@@ -1,5 +1,5 @@
 <p>
-  <img src="./.github/assets/book-cover.jpg" alt="Eloquent JavaScript Book Cover" height="320" />
+  <img src="https://github.com/user-attachments/assets/2aa3ed68-942c-466f-9121-d16d8c6544a1" alt="Eloquent JavaScript Book Cover" height="320" />
 </p>
 
 <h1>Exercícios Resolvidos — Eloquent JavaScript</h1>
