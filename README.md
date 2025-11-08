@@ -2,39 +2,103 @@
   <img src="https://github.com/user-attachments/assets/2aa3ed68-942c-466f-9121-d16d8c6544a1" alt="Eloquent JavaScript Book Cover" height="320" />
 </p>
 
-<h1>Exercícios Resolvidos — Eloquent JavaScript</h1>
+<h1>Solved Exercises — Eloquent JavaScript</h1>
 
 <p>
-  Soluções dos exercícios do livro <strong><a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a></strong> — um guia moderno e prático para dominar JavaScript.
+  Solutions to the exercises from the book <strong><a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a></strong> — a modern and practical guide to mastering JavaScript.
 </p>
 
-## Sobre o Livro
+## About the Book
 
-> **Eloquent JavaScript** (por Marijn Haverbeke) é um dos livros mais respeitados para quem quer entender JavaScript de verdade.  
+> **Eloquent JavaScript** (by Marijn Haverbeke) is one of the most respected books for anyone who wants to truly understand JavaScript.
 
-Este repositório reúne as minhas soluções dos exercícios propostos em cada capítulo.
+This repository contains my solutions to the exercises proposed in each chapter.
 
-## Conteúdo do Livro
+## Book Contents
 
-| N˚ | Capítulo                         | Exercícios Resolvidos |
-|----|----------------------------------|-------------|
-| 2  | Program Structure                | [Looping a triangle](./ch-2/looping-a-triangle.js), [FizzBuzz](./ch-2/fizzbuzz.js), [Chessboard](./ch-2/chessboard.js) |
-| 3  | Functions                        | [Minimum](./ch-3/minimum.js), [Recursion](./ch-3/recursion.js), [Bean counting](./ch-3/bean-counting.js) |
-| 4  | Data Structures: Objects and Arrays | [The sum of a range](./ch-3/the-sum-of-a-range.js), [Reversing an array](./ch-3/reversing-an-array.js), [A list](./ch-3/a-list.js), [Deep comparison](./ch-3/deep-comparison.js) |
-| 5  | Higher-order Functions           |             |
-| 6  | The Secret Life of Objects       |             |
-| 7  | Project: A Robot                 |             |
-| 8  | Bugs and Errors                  |             |
-| 9  | Regular Expressions              |             |
-| 10 | Modules                          |             |
-| 11 | Asynchronous Programming         |             |
-| 12 | Project: A Programming Language  |             |
-| 13 | JavaScript and the Browser       |             |
-| 14 | The Document Object Model        |             |
-| 15 | Handling Events                  |             |
-| 16 | Project: A Platform Game         |             |
-| 17 | Drawing on Canvas                |             |
-| 18 | HTTP and Forms                   |             |
-| 19 | Project: A Pixel Art Editor      |             |
-| 20 | Node.js                          |             |
-| 21 | Project: Skill-Sharing Website   |             |
+### Chapter 2 — Program Structure
+
+* [Looping a triangle](./ch-2/looping-a-triangle.js)
+* [FizzBuzz](./ch-2/fizzbuzz.js)
+* [Chessboard](./ch-2/chessboard.js)
+
+### Chapter 3 — Functions
+
+* [Minimum](./ch-3/minimum.js)
+* [Recursion](./ch-3/recursion.js)
+* [Bean counting](./ch-3/bean-counting.js)
+
+### Chapter 4 — Data Structures: Objects and Arrays
+
+* [The sum of a range](./ch-4/the-sum-of-a-range.js)
+* [Reversing an array](./ch-4/reversing-an-array.js)
+* [A list](./ch-4/a-list.js)
+* [Deep comparison](./ch-4/deep-comparison.js)
+
+### Chapter 5 — Higher-Order Functions
+
+* *Not yet solved*
+
+### Chapter 6 — The Secret Life of Objects
+
+* *Not yet solved*
+
+### Chapter 7 — Project: A Robot
+
+* *Not yet solved*
+
+### Chapter 8 — Bugs and Errors
+
+* *Not yet solved*
+
+### Chapter 9 — Regular Expressions
+
+* *Not yet solved*
+
+### Chapter 10 — Modules
+
+* *Not yet solved*
+
+### Chapter 11 — Asynchronous Programming
+
+* *Not yet solved*
+
+### Chapter 12 — Project: A Programming Language
+
+* *Not yet solved*
+
+### Chapter 13 — JavaScript and the Browser
+
+* *Not yet solved*
+
+### Chapter 14 — The Document Object Model
+
+* *Not yet solved*
+
+### Chapter 15 — Handling Events
+
+* *Not yet solved*
+
+### Chapter 16 — Project: A Platform Game
+
+* *Not yet solved*
+
+### Chapter 17 — Drawing on Canvas
+
+* *Not yet solved*
+
+### Chapter 18 — HTTP and Forms
+
+* *Not yet solved*
+
+### Chapter 19 — Project: A Pixel Art Editor
+
+* *Not yet solved*
+
+### Chapter 20 — Node.js
+
+* *Not yet solved*
+
+### Chapter 21 — Project: Skill-Sharing Website
+
+* *Not yet solved*
