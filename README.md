@@ -11,19 +11,16 @@
 ## Sobre o Livro
 
 > **Eloquent JavaScript** (por Marijn Haverbeke) é um dos livros mais respeitados para quem quer entender JavaScript de verdade.  
-> Este repositório reúne as minhas soluções dos exercícios propostos em cada capítulo.
 
-📖 **Livro online:** [eloquentjavascript.net](https://eloquentjavascript.net/)
-
----
+Este repositório reúne as minhas soluções dos exercícios propostos em cada capítulo.
 
 ## Conteúdo do Livro
 
-| N˚ | Capítulo                         | Exercícios |
+| N˚ | Capítulo                         | Exercícios Resolvidos |
 |----|----------------------------------|-------------|
-| 2  | Program Structure                |             |
-| 3  | Functions                        |             |
-| 4  | Data Structures: Objects and Arrays |           |
+| 2  | Program Structure                | [Looping a triangle](./ch-2/looping-a-triangle.js), [FizzBuzz](./ch-2/fizzbuzz.js), [Chessboard](./ch-2/chessboard.js) |
+| 3  | Functions                        | [Minimum](./ch-3/minimum.js), [Recursion](./ch-3/recursion.js), [Bean counting](./ch-3/bean-counting.js) |
+| 4  | Data Structures: Objects and Arrays | [The sum of a range](./ch-3/the-sum-of-a-range.js), [Reversing an array](./ch-3/reversing-an-array.js), [A list](./ch-3/a-list.js), [Deep comparison](./ch-3/deep-comparison.js) |
 | 5  | Higher-order Functions           |             |
 | 6  | The Secret Life of Objects       |             |
 | 7  | Project: A Robot                 |             |
