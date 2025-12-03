@@ -37,7 +37,8 @@ This repository contains my solutions to the exercises proposed in each chapter.
 
 ### Chapter 5 — Higher-Order Functions
 
-* *Not yet solved*
+* [Flattening](./ch-5/flattening.js)
+* ...
 
 ### Chapter 6 — The Secret Life of Objects
 
